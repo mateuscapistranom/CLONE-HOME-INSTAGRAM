@@ -1,0 +1,2 @@
+# CLONE HOME INSTAGRAM - Dark Mode Design
+ Dark Mode Styling: Adapted CSS to a dark color scheme, adjusting the color palette and background to provide a more comfortable visual experience in low-light environments. Logo Resizing: Resized the Instagram logo to align harmoniously with the page design. Layout Improvements: Made adjustments to element positioning to ensure consistency and aesthetics of the page in dark mode.
